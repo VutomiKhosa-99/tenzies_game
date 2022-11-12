@@ -1,6 +1,6 @@
 # Tenzies Game
 
-### [Live Site](https://tenzies-2.netlify.app/)
+### [Live Website](https://tenzies-2.netlify.app/)
 
 ## Introduction
 
